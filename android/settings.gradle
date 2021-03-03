@@ -1,0 +1,3 @@
+rootProject.name = 'umcomponent'
+
+include ':app'
